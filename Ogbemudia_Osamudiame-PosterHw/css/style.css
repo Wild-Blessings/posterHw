@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	background-image:url(../images/Bg.jpg);
+	background-attachment:fixed;
+	background-position: top center;
+}
+
+
+div {
+	width: 646px;
+	height: 975px;
+	margin: 40px auto 40px auto;
+	background-image:url(../images/poster.jpg)
+	
+	}
+
+img { vertical-align: middle
+	}
+	
+	a:link { opacity: 0;
+	}
+	
+	a:hover {
+		opacity: 1;
+		
+	}
+	
+	
